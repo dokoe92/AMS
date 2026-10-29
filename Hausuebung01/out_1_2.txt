@@ -1,0 +1,28 @@
+1a) Pfade 1->8 (Knoten verschieden):
+   (1, 2, 5, 6, 8)
+   (1, 2, 5, 7, 8)
+   (1, 6, 5, 7, 8)
+   (1, 6, 8)
+1a) Wege 1->8 (Kanten verschieden, Knoten dürfen wiederholt werden):
+   (1, 2, 3, 4, 2, 5, 6, 8)
+   (1, 2, 3, 4, 2, 5, 7, 8)
+   (1, 2, 4, 3, 2, 5, 6, 8)
+   (1, 2, 4, 3, 2, 5, 7, 8)
+   (1, 2, 5, 6, 8)
+   (1, 2, 5, 7, 8)
+   (1, 6, 5, 7, 8)
+   (1, 6, 8)
+
+1b)
+  W1 = (1, 2, 3, 4, 5, 6, 8): keine Wanderung (4,5 nicht adjazent)
+  W2 = (5, 7, 8): Wanderung, Weg, Pfad
+  W3 = (2, 3, 4, 2, 5): Wanderung, Weg
+  W4 = (1, 2, 3, 2, 5, 2, 1): Wanderung
+  W5 = (3, 4, 2, 3): Wanderung, Weg (geschlossen: Kreis)
+  W6 = {1, 2, 3, 4}: keine Knotenfolge -> keine Wanderung
+
+2)
+  H1: Teilgraph = True
+  H2: Teilgraph = True
+  H3: Teilgraph = False
+  H4: Teilgraph = True

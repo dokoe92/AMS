@@ -1,0 +1,16 @@
+;Bett;Esstisch;Fensterbrett (Buero);Fensterbrett (Schlafzimmer);Fensterbrett (Wohnzimmer);Katzenbett (Buero);Katzenbett (Schlafzimmer);Katzenbett (Wohnzimmer);Kratzbaum;Kueche;Regal (Buero);Regal (Vorzimmer);Schreibtisch;Schuhkasterl;Waescheschrank
+Bett;0;0;0;1;0;0;1;0;0;0;0;1;0;0;0
+Esstisch;0;0;0;0;1;0;0;1;0;0;0;0;0;1;0
+Fensterbrett (Buero);0;0;0;0;0;1;0;0;0;0;0;0;1;0;0
+Fensterbrett (Schlafzimmer);1;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+Fensterbrett (Wohnzimmer);0;1;0;0;0;0;0;0;1;1;0;0;0;0;0
+Katzenbett (Buero);0;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+Katzenbett (Schlafzimmer);1;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+Katzenbett (Wohnzimmer);0;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+Kratzbaum;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+Kueche;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+Regal (Buero);0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+Regal (Vorzimmer);1;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+Schreibtisch;0;0;1;0;0;1;0;0;0;0;1;0;0;0;0
+Schuhkasterl;0;1;0;0;0;0;0;0;0;0;0;1;0;0;1
+Waescheschrank;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0
